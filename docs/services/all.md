@@ -341,7 +341,6 @@ Complete directory of all one-click services available in Coolify, organized by 
 - [Alexandrie](/services/alexandrie) - Markdown note-taking app focused on performance, design and productivity.
 - [AppFlowy](/services/appflowy) - Open-source alternative to Notion with workspaces for docs, wikis, and project management
 - [BentoPDF](/services/bento-pdf) - Process PDFs entirely in your browser. No uploads. No servers. Complete privacy.
-- [Cal.com](/services/calcom) - Open-source Calendly alternative for scheduling meetings
 - [CodiMD](/services/codimd) - Realtime collaborative markdown notes on all platforms
 - [Ente](/services/ente-photos) - A fully open-source, end-to-end encrypted platform for storing data in the cloud
 - [Excalidraw](/services/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams

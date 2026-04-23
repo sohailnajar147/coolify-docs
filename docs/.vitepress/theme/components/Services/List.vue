@@ -466,13 +466,14 @@ const services = [
         description: 'Self-hosted Error Tracking',
         category: 'Development'
     },
-    {
-        name: 'Cal.com',
-        slug: 'calcom',
-        icon: '/docs/images/services/calcom-logo.svg',
-        description: 'Open-source Calendly alternative for scheduling meetings.',
-        category: 'Productivity'
-    },
+    // We might add cal.diy in the future so commenting cal.com instead of removing it
+    // {
+    //     name: 'Cal.com',
+    //     slug: 'calcom',
+    //     icon: '/docs/images/services/calcom-logo.svg',
+    //     description: 'Open-source Calendly alternative for scheduling meetings.',
+    //     category: 'Productivity'
+    // },
     {
         name: 'Calibre-web',
         slug: 'calibre-web',
